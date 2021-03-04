@@ -1,0 +1,24 @@
+{
+    "prefix": "zf/",
+    "cor": "#36393f",
+    "token": "ODE3MTI4MTM5ODY3MTYwNjI2.YEE_4g.sJ3ATQ6g8EwhlZO5WfYVWcCh2AI",
+    "db": "https://cloud.mongodb.com/v2/603d349cda112f75068d0123#clusters",
+    "ownerID": "436338081705230357",
+    "reportsChannel": "denuncia",
+    "greetingChannel": "816063541244723210",
+    "guildID": "816062430521065492",
+    "rulesChannel": "816063555123019837",
+    "logChannel": "817127725033979964",
+    "punishChannel": "816063529815375912",
+    "youtube": "your yt api key goes here",
+    "newsChannel": "816062430521065495",
+    "partnerChannel": "817127825436966976",
+    "command": {
+        "prefix": "r!",
+        "cooldown": 1
+    },
+    "channel": {
+        "commands": "817128017545003058",
+        "greeting": "816063541244723210"
+    }
+}
